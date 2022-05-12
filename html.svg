@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 50.000001 50"
+   version="1.1"
+   sodipodi:docname="html.svg"
+   width="50"
+   height="50"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview5369"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="12.029478"
+     inkscape:cx="-43.559662"
+     inkscape:cy="31.838455"
+     inkscape:window-width="3840"
+     inkscape:window-height="2083"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs5342">
+    <style
+       id="style5340">.cls-1{fill:#10aa50;}.cls-2{fill:#b8c4c2;}.cls-3{fill:#12924f;}.cls-4{fill:#21313c;}</style>
+    <style
+       id="style1482">.cls-1{fill:#1b1b1f;}</style>
+  </defs>
+  <title
+     id="title5344">MongoDB_Logo_FullColorBlack_RGB</title>
+  <metadata
+     id="metadata5371">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>MongoDB_Logo_FullColorBlack_RGB</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 6.5585105,3.484935 9.910636,41.501304 24.951974,46.515081 40.089364,41.501304 43.441489,3.484935 Z M 36.160942,15.769661 H 18.507058 l 0.393802,4.744838 h 16.866279 l -1.306273,14.253735 -9.403237,2.593336 v 0.02878 H 24.951974 L 15.471895,34.768201 14.8956,27.487654 h 4.581557 l 0.336173,3.659488 5.138644,1.392718 5.157854,-1.392718 0.576296,-5.974276 H 14.655476 l -1.229432,-13.9848 h 23.157515 z"
+     id="path13518"
+     style="stroke:#030303;stroke-width:6.96987;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;fill:#ffffff;fill-opacity:1" />
+</svg>

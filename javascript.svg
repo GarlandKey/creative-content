@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 50.000001 50"
+   version="1.1"
+   sodipodi:docname="javascript.svg"
+   width="50"
+   height="50"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview5369"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="12.029478"
+     inkscape:cx="-43.559662"
+     inkscape:cy="31.838455"
+     inkscape:window-width="3840"
+     inkscape:window-height="2083"
+     inkscape:window-x="0"
+     inkscape:window-y="48"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs5342">
+    <style
+       id="style5340">.cls-1{fill:#10aa50;}.cls-2{fill:#b8c4c2;}.cls-3{fill:#12924f;}.cls-4{fill:#21313c;}</style>
+    <style
+       id="style1482">.cls-1{fill:#1b1b1f;}</style>
+  </defs>
+  <title
+     id="title5344">MongoDB_Logo_FullColorBlack_RGB</title>
+  <metadata
+     id="metadata5371">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>MongoDB_Logo_FullColorBlack_RGB</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     d="M 41.936061,3.4450049 H 8.0639235 c -2.5500277,0 -4.6189186,2.0688949 -4.6189186,4.6189269 V 41.936064 c 0,2.550033 2.0688909,4.618928 4.6189186,4.618928 H 41.936061 c 2.550033,0 4.618928,-2.068895 4.618928,-4.618928 V 8.0639318 c 0,-2.550032 -2.068895,-4.6189269 -4.618928,-4.6189269 z M 26.905305,37.066944 c 0,4.195528 -2.463433,6.110458 -6.052724,6.110458 -3.242873,0 -5.119315,-1.674362 -6.081588,-3.704766 l 3.300612,-1.991913 c 0.635096,1.125864 1.212462,2.07852 2.607768,2.07852 1.327941,0 2.174745,-0.519632 2.174745,-2.550035 V 23.239033 h 4.051187 z m 9.584271,6.110458 c -3.762501,0 -6.197061,-1.789836 -7.380661,-4.137791 l 3.300609,-1.905305 c 0.866048,1.414544 2.001535,2.463428 3.993448,2.463428 1.67436,0 2.75211,-0.837182 2.75211,-2.001537 0,-1.385677 -1.096996,-1.876439 -2.954189,-2.694372 L 35.190503,34.4688 c -2.92532,-1.241337 -4.859496,-2.809846 -4.859496,-6.110458 0,-3.040793 2.319086,-5.350256 5.927623,-5.350256 2.578901,0 4.426472,0.894919 5.754414,3.242874 l -3.156268,2.020779 c -0.692838,-1.241337 -1.443414,-1.732098 -2.607769,-1.732098 -1.1836,0 -1.934176,0.750575 -1.934176,1.732098 0,1.212467 0.750576,1.703228 2.492296,2.463429 l 1.01039,0.433024 c 3.444951,1.472281 5.379127,2.983057 5.379127,6.370268 0,3.637408 -2.867585,5.638942 -6.707068,5.638942 z"
+     id="path13737"
+     style="fill:#ffffff;fill-opacity:1;stroke:#030303;stroke-width:6.89001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+</svg>
