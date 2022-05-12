@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 50.000001 50"
+   version="1.1"
+   sodipodi:docname="android.svg"
+   width="50"
+   height="50"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview5369"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     showgrid="false"
+     inkscape:zoom="12.029478"
+     inkscape:cx="25.146561"
+     inkscape:cy="21.239492"
+     inkscape:window-width="1895"
+     inkscape:window-height="1012"
+     inkscape:window-x="1925"
+     inkscape:window-y="58"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs5342">
+    <style
+       id="style5340">.cls-1{fill:#10aa50;}.cls-2{fill:#b8c4c2;}.cls-3{fill:#12924f;}.cls-4{fill:#21313c;}</style>
+    <style
+       id="style1482">.cls-1{fill:#1b1b1f;}</style>
+    <style
+       id="style5340-2">.cls-1{fill:#10aa50;}.cls-2{fill:#b8c4c2;}.cls-3{fill:#12924f;}.cls-4{fill:#21313c;}</style>
+  </defs>
+  <title
+     id="title5344">MongoDB_Logo_FullColorBlack_RGB</title>
+  <metadata
+     id="metadata5371">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>MongoDB_Logo_FullColorBlack_RGB</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="Android"
+     fill="#78c257"
+     d="m 9.0480473,17.269766 c -1.5126852,0 -2.6815783,1.237651 -2.6815783,2.681578 v 11.345139 c 0,1.512685 1.2376515,2.750336 2.7503367,2.750336 1.5126853,0 2.7503363,-1.237651 2.6815783,-2.750336 V 19.951344 c 0,-1.443927 -1.237651,-2.681578 -2.7503367,-2.681578 M 30.981982,7.0247613 32.907218,3.5868404 c 0.06876,-0.2062752 0.06876,-0.4125504 -0.137517,-0.4813089 -0.206275,-0.068759 -0.412551,0 -0.481309,0.1375168 L 30.363156,6.7497276 C 28.781713,6.0621435 26.925236,5.649593 25.068758,5.649593 c -1.925236,0 -3.712955,0.4125505 -5.294398,1.1001346 L 17.849124,3.2430483 C 17.780364,3.0367731 17.505332,2.9680146 17.367815,3.1055315 17.16154,3.1742895 17.092782,3.4493236 17.230298,3.5868404 l 1.925236,3.4379209 C 15.236305,8.949997 12.761002,12.662951 12.761002,16.857215 h 24.477996 c 0,-4.194264 -2.544062,-7.907218 -6.257016,-9.8324537 M 19.430568,12.387918 c -0.550067,0 -1.031376,-0.481309 -1.031376,-1.031377 0,-0.550066 0.481309,-1.031375 1.031376,-1.031375 0.550067,0 1.031376,0.481309 1.031376,1.031375 0,0.618826 -0.481309,1.031377 -1.031376,1.031377 m 11.138864,0 c -0.550068,0 -1.031377,-0.481309 -1.031377,-1.031377 0,-0.550066 0.481309,-1.031375 1.031377,-1.031375 0.550067,0 1.031376,0.481309 1.031376,1.031375 0,0.618826 -0.481309,1.031377 -1.031376,1.031377 M 12.82976,17.751075 v 17.602154 c 0,1.581444 1.30641,2.887854 2.887853,2.887854 h 1.993994 v 6.050741 c 0,1.512685 1.237652,2.750337 2.681578,2.750337 1.512686,0 2.750337,-1.237652 2.750337,-2.750337 v -6.050741 h 3.644197 v 6.050741 c 0,1.512685 1.237651,2.750337 2.681578,2.681578 1.512685,0 2.750337,-1.237651 2.750337,-2.750337 v -5.981982 h 1.993993 c 1.581444,0 2.887854,-1.30641 2.887854,-2.887854 V 17.751075 Z m 30.803771,2.200269 c 0,-1.512685 -1.237652,-2.681578 -2.681579,-2.681578 -1.512684,0 -2.681578,1.237651 -2.681578,2.750337 v 11.345138 c 0,1.512686 1.237651,2.681578 2.681578,2.681578 1.512686,0 2.681579,-1.237651 2.681579,-2.750336 z"
+     style="fill:#fdfdfd;fill-opacity:1;stroke:#000000;stroke-width:5.91566;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers" />
+</svg>
